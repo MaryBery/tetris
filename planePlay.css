@@ -1,0 +1,74 @@
+#title {
+    text-align: center;
+}
+
+#screen {
+    background-color: blueviolet;
+    width: 400px;
+    height: 500px;
+    margin-left: 25%;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#map {
+    width: 225px;
+    height: 470px;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+    margin-left: 25px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#map div {
+    width: 20.5px;
+    height: 20.5px;
+    border: 1px solid rgba(124, 124, 124, .8);
+    background-color: rgba(124, 124, 124, .8);
+    display: inline-block;
+    margin: -2px;
+}
+
+
+
+#map .block6 {
+    background-color: rgb(132, 0, 147);
+}
+
+#map .block10 {
+    background-color: rgb(132, 0, 147);
+}
+
+#map .block11 {
+    background-color: rgb(132, 0, 147);
+}
+
+#map .block14 {
+    background-color: rgb(132, 0, 147);
+}
+
+#map .done {
+    background-color: black;
+}
+
+
+
+#startPauseButton {
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    float: right;
+
+}
+
+#score {
+    height: 30px;
+    width: 100px;
+    margin-top: -425px;
+    border: 1px solid black;
+    float: right;
+    font-size: 2em;
+}
